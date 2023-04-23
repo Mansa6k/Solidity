@@ -6,7 +6,7 @@ This project contains a Solidity smart contract for a joint savings account, all
 
 The smart contract is designed to accept deposits from two specified user addresses, control a joint savings account, and allow withdrawals by the users. The contract also keeps track of the last withdrawal address, amount, and the current contract balance.
 
-#Getting Started
+# Getting Started
 
 Prerequisites
 
@@ -14,9 +14,8 @@ Prerequisites
 
 # Installation
 1. Clone the repo:
-bash
 
-git clone https://github.com/yourusername/joint-savings-account.git
+ https://github.com/Mansa6k/Solidity.git
 
 2. Open the joint_savings.sol file in Remix IDE.
 
