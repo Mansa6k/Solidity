@@ -33,10 +33,6 @@ Interact with the smart contract using Remix IDE to perform the following operat
 * Check the contract balance.
 * Check the last withdrawal address and amount.
 
-# Screenshots
-
-Include a folder named Execution_Results containing screenshots of each successful function execution in Remix IDE, with the function call, input values, and the output.
-
 # License
 This project is licensed under the MIT License.
 
